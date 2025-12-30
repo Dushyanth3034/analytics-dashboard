@@ -1,7 +1,7 @@
 # Sales Analytics Dashboard
 
 # Live Demo
-[Click to view live dashboard](http://localhost:8501h)
+[Click to view live dashboard](https://analytics-dashboard-dgotuappox6qr5mgfjiltnr.streamlit.app/)
 
 # Features
 - **Real-time KPIs:** Total sales, average transaction, customer count
@@ -22,5 +22,6 @@
 | **Plotly** | Interactive visualizations |
 | **Pandas** | Data processing |
 | **Python** | Backend logic |
+
 
 ## 📁 Project Structure

@@ -89,6 +89,7 @@ with tab3:
 
 # Footer
 st.divider()
-st.markdown()
+st.markdown(---)
 
 # ==================== END COPY ====================
+

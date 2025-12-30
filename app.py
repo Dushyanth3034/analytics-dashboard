@@ -89,5 +89,6 @@ with tab3:
 
 # Footer
 st.divider()
-st.markdown("**✅ Dashboard ready for deployment** • Next: Deploy to Streamlit Cloud")
+st.markdown()
+
 # ==================== END COPY ====================
